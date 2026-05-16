@@ -1,0 +1,84 @@
+{
+  "accounts": [
+    {
+      "username": "phillipthomas08",
+      "handle": "phillipthomas08",
+      "platform": "TikTok",
+      "token_valid": true,
+      "posts_count": 47
+    },
+    {
+      "username": "cottagecore155",
+      "handle": "cottagecore155",
+      "platform": "TikTok",
+      "token_valid": true,
+      "posts_count": 32
+    }
+  ],
+  "posts": [
+    {
+      "account": "phillipthomas08",
+      "status": "posted",
+      "timestamp": "2026-05-16T14:22:00Z",
+      "image_count": 8,
+      "track": "Romantic Homicide - d4vd",
+      "thumbnail": ""
+    },
+    {
+      "account": "cottagecore155",
+      "status": "posted",
+      "timestamp": "2026-05-16T14:08:00Z",
+      "image_count": 6,
+      "track": "Sweater Weather - The Neighbourhood",
+      "thumbnail": ""
+    },
+    {
+      "account": "phillipthomas08",
+      "status": "posted",
+      "timestamp": "2026-05-16T11:45:00Z",
+      "image_count": 10,
+      "track": "Sofia - Clairo",
+      "thumbnail": ""
+    },
+    {
+      "account": "cottagecore155",
+      "status": "posted",
+      "timestamp": "2026-05-16T11:30:00Z",
+      "image_count": 7,
+      "track": "Line Without a Hook - Ricky Montgomery",
+      "thumbnail": ""
+    },
+    {
+      "account": "phillipthomas08",
+      "status": "posted",
+      "timestamp": "2026-05-15T19:15:00Z",
+      "image_count": 9,
+      "track": "Glimpse of Us - Joji",
+      "thumbnail": ""
+    },
+    {
+      "account": "cottagecore155",
+      "status": "failed",
+      "timestamp": "2026-05-15T19:00:00Z",
+      "image_count": 5,
+      "track": "TV Girl - Lovers Rock",
+      "thumbnail": ""
+    },
+    {
+      "account": "phillipthomas08",
+      "status": "posted",
+      "timestamp": "2026-05-15T15:30:00Z",
+      "image_count": 8,
+      "track": "After Dark - Mr.Kitty",
+      "thumbnail": ""
+    },
+    {
+      "account": "cottagecore155",
+      "status": "posted",
+      "timestamp": "2026-05-15T15:12:00Z",
+      "image_count": 6,
+      "track": "Apocalypse - Cigarettes After Sex",
+      "thumbnail": ""
+    }
+  ]
+}
